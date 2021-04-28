@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TODO_9</string>
+    <string name="num1">Enter a number</string>
+    <string name="but1">Add</string>
+    <string name="but2">Sub</string>
+    <string name="but3">Mul</string>
+    <string name="but4">Div</string>
+</resources>
